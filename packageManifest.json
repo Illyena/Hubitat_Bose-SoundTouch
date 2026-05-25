@@ -1,30 +1,30 @@
 {
-  "packageName": "hubitat_boseSoundTouch",
-  "author": "tomw",
-  "version": "1.1.0",
+  "packageName": "Bose-SoundTouch",
+  "author": "Illyena",
+  "version": "ALPHA 0.0.1",
   "minimumHEVersion": "2.1.9",
-  "dateReleased": "2020-09-14",
+  "dateReleased": "unreleased",
   "apps": [
     {
-      "id": "4be7583a-2bba-4a36-9c5e-52ae3dd83c18",
+      "id": "",
       "name": "Bose SoundTouch Discovery",
-      "namespace": "tomw",
-      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_boseSoundTouch/master/boseSoundTouchDiscovery",
+      "namespace": "Bose-SoundTouch",
+      "location": "https://raw.githubusercontent.com/Illyena/Hubitat_Bose-SoundTouch/main/boseSoundTouchDiscovery",
       "required": false,
       "oauth": false
     }
   ],
   "drivers": [
     {
-      "id": "d4c86b84-9f12-47a2-b04f-60ce5c294c10",
+      "id": "",
       "name": "Bose SoundTouch Device",
-      "namespace": "tomw",
-      "location": "https://raw.githubusercontent.com/tomwpublic/hubitat_boseSoundTouch/master/boseSoundTouchDevice",
+      "namespace": "Bose-SoundTouch",
+      "location": "https://raw.githubusercontent.com/Illyena/Hubitat_Bose-SoundTouch/main/boseSoundTouchDevice",
       "required": true
     }
   ],
-  "licenseFile": "https://raw.githubusercontent.com/tomwpublic/hubitat_boseSoundTouch/master/LICENSE",
-  "releaseNotes": "1.1.0 - @tomw - Added captureContentItem feature for additional user presets.  Added AudioNotification capability support.\n1.0.0 - @tomw - Initial release.",
-  "documentationLink": "https://github.com/tomwpublic/hubitat_boseSoundTouch/blob/master/README.md",
-  "communityLink": "https://community.hubitat.com/t/bose-soundtouch-support/17549/8"
+  "licenseFile": "https://raw.githubusercontent.com/Illyena/Hubitat_Bose-SoundTouch/main/LICENSE",
+  "releaseNotes": "ALPHA",
+  "documentationLink": "https://github.com/Illyena/Hubitat_Bose-SoundTouch/blob/main/README.md",
+  "communityLink": ""
 }

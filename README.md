@@ -55,4 +55,7 @@ This attribute contains an HTML-formatted image display of the album art for the
 
 I have no affiliation with any of the companies mentioned in this readme or in the code.
 
+# Authorship 
 
+This is a derivative work of tomw's [hubitat_boseSoundTouch](http://github.com/tomwpublic/hubitat_boseSoundTouch) and a great deal of their original code remains intact.
+This iteration would not be possible without them making their work publicly available under [Apache 2.0](https://raw.githubusercontent.com/tomwpublic/hubitat_boseSoundTouch/refs/heads/master/LICENSE) license.  Please send any [appreciate](<!- TODO -->) to them.
