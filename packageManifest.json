@@ -1,15 +1,15 @@
 {
   "packageName": "Bose-SoundTouch",
   "author": "Illyena",
-  "version": "ALPHA 0.0.1",
+  "version": "ALPHA 0.0.2",
   "minimumHEVersion": "2.1.9",
   "dateReleased": "unreleased",
   "apps": [
     {
       "id": "",
-      "name": "Bose SoundTouch Discovery",
+      "name": "Bose SoundTouch Device Manager",
       "namespace": "Bose-SoundTouch",
-      "location": "https://raw.githubusercontent.com/Illyena/Hubitat_Bose-SoundTouch/main/boseSoundTouchDiscovery",
+      "location": "https://raw.githubusercontent.com/Illyena/Hubitat_Bose-SoundTouch/main/src/Bose-SoundTouch/apps/Bose_SoundTouch_Device_Manager.groovy",
       "required": false,
       "oauth": false
     }
@@ -19,7 +19,7 @@
       "id": "",
       "name": "Bose SoundTouch Device",
       "namespace": "Bose-SoundTouch",
-      "location": "https://raw.githubusercontent.com/Illyena/Hubitat_Bose-SoundTouch/main/boseSoundTouchDevice",
+      "location": "https://raw.githubusercontent.com/Illyena/Hubitat_Bose-SoundTouch/main/src/Bose-SoundTouch/drivers/Bose_SoundTouch_Device.groovy",
       "required": true
     }
   ],
